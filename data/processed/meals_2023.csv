@@ -1,0 +1,366 @@
+﻿dátum;leves;főétel;köret
+2023.01.01;;töltött karaj;francia saláta
+2023.01.02;korhelyleves;töltött karaj;francia saláta
+2023.01.03;korhelyleves;töltött karaj;francia saláta
+2023.01.04;;krumplifőzelék;
+2023.01.05;paradicsomleves;töltött karaj;
+2023.01.06;;rakott káposzta;
+2023.01.07;;rakott káposzta;
+2023.01.08;zöldséges bableves;;bejgli
+2023.01.09;zöldséges bableves;;bejgli
+2023.01.10;;sertéspörkölt;orsó tészta
+2023.01.11;zöldséges bableves;;
+2023.01.12;;borsópörkölt;
+2023.01.13;;sertéspörkölt;orsó tészta
+2023.01.14;tárkonyos szarvasraguleves;;
+2023.01.15;tárkonyos szarvasraguleves;;fánk
+2023.01.16;tárkonyos szarvasraguleves;;fánk
+2023.01.17;;grillezett csirkemell;
+2023.01.18;;grillezett csirkemell;
+2023.01.19;;grillezett csirkemell;
+2023.01.20;tojásleves;grillezett csirkemell;
+2023.01.21;;tejfölös hús;
+2023.01.22;;tejfölös hús;
+2023.01.23;;tejfölös hús;
+2023.01.24;;sült kolbász;
+2023.01.25;;kelkáposzta főzelék;
+2023.01.26;;kelkáposzta főzelék;
+2023.01.27;csontleves;rántott sajt;
+2023.01.28;csontleves;szarvasszelet erdei áfonyamártással;szalvéta gombóc
+2023.01.29;csontleves;szarvasszelet erdei áfonyamártással;szalvéta gombóc
+2023.01.30;csontleves;szarvasszelet erdei áfonyamártással;szalvéta gombóc
+2023.01.31;csontleves;túrós tészta;
+2023.02.01;;milánói;spagetti
+2023.02.02;;milánói;spagetti
+2023.02.03;;zöldséges fetás csirkemell;
+2023.02.04;tarhonyaleves;bakonyi sertésszelet;nokedli
+2023.02.05;tarhonyaleves;bakonyi sertésszelet;nokedli
+2023.02.06;tarhonyaleves;bakonyi sertésszelet;nokedli
+2023.02.07;;kenyérlángos;
+2023.02.08;;sült kolbász;
+2023.02.09;sárgaborsókrémleves;;
+2023.02.10;;harasztos káposzta;
+2023.02.11;;harasztos káposzta;
+2023.02.12;;harasztos káposzta;
+2023.02.13;gombaleves;;bejgli
+2023.02.14;;harasztos káposzta;
+2023.02.15;;babfőzelék;
+2023.02.16;frankfurti leves;mákos tészta;
+2023.02.17;;babfőzelék;
+2023.02.18;zellerkrémleves;csirkemell roston;
+2023.02.19;gulyásleves;;fánk
+2023.02.20;;babfőzelék;
+2023.02.21;;;
+2023.02.22;;borsópörkölt;
+2023.02.23;;hurka kolbász;
+2023.02.24;;;
+2023.02.25;;rakott krumpli;
+2023.02.26;;rakott krumpli;
+2023.02.27;;;
+2023.02.28;;tepsis tészta;
+2023.03.01;;tepsis tészta;
+2023.03.02;;paprikás krumplis nokedli;
+2023.03.03;;paprikás krumplis nokedli;
+2023.03.04;;brassói;sült krumpli
+2023.03.05;;brassói;sült krumpli
+2023.03.06;;brassói;sült krumpli
+2023.03.07;;kocsonya;
+2023.03.08;;kocsonya;
+2023.03.09;;kocsonya;
+2023.03.10;;hurka kolbász;
+2023.03.11;tyúkhúsleves;;
+2023.03.12;tyúkhúsleves;tyúkpörkölt;nokedli
+2023.03.13;tyúkhúsleves;tyúkpörkölt;nokedli
+2023.03.14;;rizses hús;
+2023.03.15;zellerkrémleves;rántott máj;
+2023.03.16;zellerkrémleves;tyúkpörkölt;nokedli
+2023.03.17;;halrudak;bulgur
+2023.03.18;;;
+2023.03.19;;;
+2023.03.20;;;
+2023.03.21;;;
+2023.03.22;;;
+2023.03.23;;;
+2023.03.24;;;
+2023.03.25;;rakott káposzta;
+2023.03.26;paradicsomleves;dubarry szelet;krumplipüré
+2023.03.27;;rakott káposzta;
+2023.03.28;;dubarry szelet;krumplipüré
+2023.03.29;kolbászleves;káposztás tészta;
+2023.03.30;kolbászleves;káposztás tészta;
+2023.03.31;kolbászleves;káposztás tészta;
+2023.04.01;;sólet;
+2023.04.02;gulyásleves;;tepertős pogácsa
+2023.04.03;;sólet;
+2023.04.04;gulyásleves;;tepertős pogácsa
+2023.04.05;gulyásleves;;tepertős pogácsa
+2023.04.06;;harasztos káposzta;
+2023.04.07;;harasztos káposzta;
+2023.04.08;;stefánia vagdalt;franciasaláta
+2023.04.09;;;
+2023.04.10;;harasztos káposzta;
+2023.04.11;;stefánia vagdalt;franciasaláta
+2023.04.12;;rántott sajt;bulgur
+2023.04.13;;stefánia vagdalt;
+2023.04.14;csirkeraguleves;;
+2023.04.15;;harasztos káposzta;
+2023.04.16;csirkeraguleves;rántott csirke;
+2023.04.17;csirkeraguleves;rántott csirke;
+2023.04.18;;túrós tészta;
+2023.04.19;;milánói;spagetti
+2023.04.20;;hurka;
+2023.04.21;;sonkás tészta;
+2023.04.22;;sonkás tészta;
+2023.04.23;;krumplifőzelék;
+2023.04.24;lebbencsleves;krumplifőzelék;
+2023.04.25;lebbencsleves;rántott sajt;bulgur
+2023.04.26;;rántott sajt;bulgur
+2023.04.27;karalábéleves;gesztenyés szilvával töltött csirkemell;
+2023.04.28;karalábéleves;gesztenyés szilvával töltött csirkemell;
+2023.04.29;májgombócleves;tejszínes gombás brokkolis csirkemell;penne
+2023.04.30;májgombócleves;tejszínes gombás brokkolis csirkemell;penne
+2023.05.01;;fasírt;franciasaláta
+2023.05.02;tojásleves;fasírt;franciasaláta
+2023.05.03;;sertés pecsenye;sült krumpli
+2023.05.04;bableves;;tepertős pogácsa
+2023.05.05;;borsópörkölt;
+2023.05.06;bableves;;tepertős pogácsa
+2023.05.07;;sült kacsacomb párolt lilakáposztával;hagymás tört krumpli
+2023.05.08;bableves;sült kacsacomb párolt lilakáposztával;hagymás tört krumpli
+2023.05.09;;káposztás tészta;
+2023.05.10;tarhonyaleves;csirkebelőség pörkölt;
+2023.05.11;tarhonyaleves;csirkebelőség pörkölt;
+2023.05.12;;lazac hollandi mártással;spárga
+2023.05.13;zöldséges bableves;;
+2023.05.14;zöldséges bableves;;
+2023.05.15;;harasztos káposzta;
+2023.05.16;gombaleves;lazac hollandi mártással;spárga
+2023.05.17;gombaleves;;
+2023.05.18;;zöldséges fetás csirkemell;
+2023.05.19;;rakott krumpli;
+2023.05.20;;rakott káposzta;
+2023.05.21;;túrós tészta;
+2023.05.22;;paprikás krumplis nokedli;
+2023.05.23;;rakott káposzta;
+2023.05.24;;hurka;
+2023.05.25;;hurka;
+2023.05.26;;kelkáposzta főzelék;
+2023.05.27;bakonyi betyárleves;;
+2023.05.28;rántott leves;csirkemell roston;petrezselymes burgonya
+2023.05.29;bakonyi betyárleves;;
+2023.05.30;bakonyi betyárleves;;
+2023.05.31;;kenyérlángos;
+2023.06.01;;kenyérlángos;
+2023.06.02;;kenyérlángos;
+2023.06.03;borsóleves;sajtos hús;krumplipüré
+2023.06.04;borsóleves;sajtos hús;krumplipüré
+2023.06.05;;sertéspörkölt;orsó tészta
+2023.06.06;;sertéspörkölt;orsó tészta
+2023.06.07;;ganca;
+2023.06.08;;ganca;
+2023.06.09;;rántott karfiol;rizs
+2023.06.10;karalábéleves;hortobágyi húsos palacsinta;
+2023.06.11;karalábéleves;hortobágyi húsos palacsinta;
+2023.06.12;;milánói;spagetti
+2023.06.13;;milánói;spagetti
+2023.06.14;;milánói;spagetti
+2023.06.15;;krumplifőzelék;
+2023.06.16;;krumplifőzelék;
+2023.06.17;;cigánypecsenye;sült burgonya
+2023.06.18;;;
+2023.06.19;;cigánypecsenye;sült burgonya
+2023.06.20;;cigánypecsenye;sült burgonya
+2023.06.21;;grízes tészta;
+2023.06.22;;grízes tészta;
+2023.06.23;;halrudak;
+2023.06.24;;;
+2023.06.25;;;
+2023.06.26;;zöldséges fetás csirkemell;
+2023.06.27;;zöldséges fetás csirkemell;
+2023.06.28;;rántott cukkini;rizs
+2023.06.29;;rántott cukkini;rizs
+2023.06.30;;gombapörkölt;nokedli
+2023.07.01;gyümölcsleves;gyros pita;
+2023.07.02;gyümölcsleves;gyros pita;
+2023.07.03;;tökfőzelék;
+2023.07.04;;grízes tészta;
+2023.07.05;krumplileves;;
+2023.07.06;;hurka;
+2023.07.07;krumplileves;resztelt máj;
+2023.07.08;;;
+2023.07.09;;;
+2023.07.10;;csirkemell roston;bulgur
+2023.07.11;;;
+2023.07.12;;;
+2023.07.13;;;
+2023.07.14;;;
+2023.07.15;;rántott patiszon;rizs
+2023.07.16;;sertéstokány;tarhonya
+2023.07.17;;sertéstokány;tarhonya
+2023.07.18;;krumplis tészta;
+2023.07.19;;rántott sajt;kukoricás rizs
+2023.07.20;;;
+2023.07.21;;tökfőzelék;
+2023.07.22;;milánói;spagetti
+2023.07.23;;milánói;spagetti
+2023.07.24;;tócsni;
+2023.07.25;;rántott csirkemell;petrezselymes burgonya
+2023.07.26;;marhapörkölt;
+2023.07.27;;marhapörkölt;
+2023.07.28;;marhapörkölt;
+2023.07.29;gulyásleves;;kelt kalácsok
+2023.07.30;gulyásleves;;kelt kalácsok
+2023.07.31;;;
+2023.08.01;;hurka;uborkasaláta
+2023.08.02;;túrógombóc;
+2023.08.03;;túrógombóc;
+2023.08.04;;garnélarákos tészta;
+2023.08.05;;karfiolos csirkemell;
+2023.08.06;;slambuc;
+2023.08.07;;slambuc;
+2023.08.08;;csirkemell roston;patiszontócsni
+2023.08.09;;csirkemell roston;patiszontócsni
+2023.08.10;;;
+2023.08.11;palócleves;;pogácsa
+2023.08.12;palócleves;;pogácsa
+2023.08.13;;bakonyi sertésszelet;nokedli
+2023.08.14;;bakonyi sertésszelet;nokedli
+2023.08.15;;krumplis tészta;
+2023.08.16;;bakonyi sertésszelet;nokedli
+2023.08.17;;csirkemell roston;patiszontócsni
+2023.08.18;karalábéleves;csirkemell roston;patiszontócsni
+2023.08.19;halászlé;zöldséges fetás csirkemell;kelt kalácsok
+2023.08.20;halászlé;zöldséges fetás csirkemell;kelt kalácsok
+2023.08.21;;;
+2023.08.22;;zöldséges fetás csirkemell;
+2023.08.23;;kenyérlángos;
+2023.08.24;;tökfőzelék;
+2023.08.25;;tökfőzelék;
+2023.08.26;;patiszontócsni;
+2023.08.27;;patiszontócsni;
+2023.08.28;;lecsós szelet;rizs
+2023.08.29;;;
+2023.08.30;;;
+2023.08.31;;tatár beefsteak;
+2023.09.01;;sült tarja;kovászos uborka
+2023.09.02;palócleves;;pogácsa
+2023.09.03;palócleves;;pogácsa
+2023.09.04;;sült tarja;kovászos uborka
+2023.09.05;;gombapörkölt;nokedli
+2023.09.06;palócleves;;
+2023.09.07;;lazac roston;rizs
+2023.09.08;;túrós tészta;
+2023.09.09;;tyúkpörkölt;nokedli
+2023.09.10;;tejszínes gombás brokkolis csirkemell;penne
+2023.09.11;;tyúkpörkölt;nokedli
+2023.09.12;;tejszínes gombás brokkolis csirkemell;penne
+2023.09.13;;milánói;spagetti
+2023.09.14;;milánói;spagetti
+2023.09.15;;lecsó;
+2023.09.16;tárkonyos csirkeraguleves;;
+2023.09.17;tárkonyos csirkeraguleves;;
+2023.09.18;;sült csirkecomb;rizs
+2023.09.19;;sült csirkecomb;rizs
+2023.09.20;zellerkrémleves;;
+2023.09.21;;lencsefőzelék;
+2023.09.22;;;
+2023.09.23;;;
+2023.09.24;;;
+2023.09.25;;;
+2023.09.26;;;
+2023.09.27;;;
+2023.09.28;;;
+2023.09.29;;;
+2023.09.30;;csirkenyak pörkölt;
+2023.10.01;zöldségleves;tökfőzelék;
+2023.10.02;;tökfőzelék;
+2023.10.03;zöldségleves;grízes tészta;
+2023.10.04;;lecsó;
+2023.10.05;lebbencsleves;;
+2023.10.06;lebbencsleves;;
+2023.10.07;;kelkáposzta főzelék;
+2023.10.08;;kelkáposzta főzelék;
+2023.10.09;gulyásleves;;
+2023.10.10;gulyásleves;;
+2023.10.11;;;
+2023.10.12;sárgaborsókrémleves;;
+2023.10.13;sárgaborsókrémleves;;
+2023.10.14;csontleves;wellington bélszín;
+2023.10.15;csontleves;rakott kelkáposzta;
+2023.10.16;;rakott kelkáposzta;
+2023.10.17;;borsópörkölt;
+2023.10.18;;borsópörkölt;
+2023.10.19;;paprikás krumplis nokedli;
+2023.10.20;;debreceni;
+2023.10.21;babgulyás;;tepertős pogácsa
+2023.10.22;babgulyás;;tepertős pogácsa
+2023.10.23;;rántott hús;rizs
+2023.10.24;;rántott hús;krumplipüré
+2023.10.25;;paprikás krumplis nokedli;
+2023.10.26;;paprikás krumplis nokedli;
+2023.10.27;;rántott máj;főtt krumpli
+2023.10.28;;rántott máj;főtt krumpli
+2023.10.29;;marhasült meggyszósszal;főtt krumpli
+2023.10.30;;marhasült meggyszósszal;főtt krumpli
+2023.10.31;;káposztás tészta;
+2023.11.01;;hurka;cékla
+2023.11.02;;sztrapacska;
+2023.11.03;;sztrapacska;
+2023.11.04;csirkeraguleves;tyúkpörkölt;nokedli
+2023.11.05;csirkeraguleves;tyúkpörkölt;nokedli
+2023.11.06;;sült csirkecomb;
+2023.11.07;;tyúkpörkölt;orsó tészta
+2023.11.08;;sült csirkecomb;
+2023.11.09;;tökfőzelék;
+2023.11.10;frankfurti leves;;pogácsa
+2023.11.11;;sült kacsacomb párolt lilakáposztával;hagymás tört krumpli
+2023.11.12;;milánói;spagetti
+2023.11.13;;hentes tokány;rizs
+2023.11.14;;milánói;spagetti
+2023.11.15;;mákos tészta;
+2023.11.16;tarhonyaleves;milánói;spagetti
+2023.11.17;tarhonyaleves;lazac roston;krumplipüré
+2023.11.18;;rakott krumpli;
+2023.11.19;;rakott krumpli;
+2023.11.20;;rántott hús;
+2023.11.21;zöldséges bableves;;
+2023.11.22;zöldséges bableves;mákosguba vaníliasodóval;
+2023.11.23;;harasztos káposzta;
+2023.11.24;;harasztos káposzta;
+2023.11.25;;csirkemell roston;céklachips
+2023.11.26;;csirkemell roston;céklachips
+2023.11.27;csirkeraguleves;halrudak;
+2023.11.28;csirkeraguleves;rántott sajt;rizibizi
+2023.11.29;;harasztos káposzta;
+2023.11.30;;harasztos káposzta;
+2023.12.01;;sertésszűz budapest módra;rizs
+2023.12.02;;sertésszűz budapest módra;rizs
+2023.12.03;;tejfölös hús;
+2023.12.04;;tejfölös hús;
+2023.12.05;;tejfölös hús;
+2023.12.06;;mákos tészta;
+2023.12.07;;fokhagymás csülök pecsenye;főtt krumpli
+2023.12.08;;lencsefőzelék;
+2023.12.09;;lencsefőzelék;
+2023.12.10;;fokhagymás csülök pecsenye;főtt krumpli
+2023.12.11;;sertéspörkölt;nokedli
+2023.12.12;sárgaborsókrémleves;;
+2023.12.13;;sertéspörkölt;nokedli
+2023.12.14;sárgaborsókrémleves;;
+2023.12.15;;;
+2023.12.16;;brassói;sült krumpli
+2023.12.17;;brassói;sült krumpli
+2023.12.18;;brassói;sült krumpli
+2023.12.19;;stroganoff bélszín;penne
+2023.12.20;gyümölcsleves;;
+2023.12.21;gyümölcsleves;;
+2023.12.22;;szarvasgerinc;krokett
+2023.12.23;;káposztás tészta;
+2023.12.24;halászlé;sült kacsacomb párolt lilakáposztával;krokett
+2023.12.25;;;
+2023.12.26;halászlé;;
+2023.12.27;halászlé;;
+2023.12.28;paradicsomleves;rántott máj;
+2023.12.29;;lencsefőzelék;
+2023.12.30;;lencsefőzelék;
+2023.12.31;;sertés pecsenye;krumplipüré
