@@ -1,0 +1,366 @@
+﻿dátum;leves;főétel;köret
+2021.01.01;korhelyleves;rántott hús;főtt krumpli
+2021.01.02;karalábéleves;rántott hús;főtt krumpli
+2021.01.03;korhelyleves;rántott csirkemell;krumplipüré
+2021.01.04;;harasztos káposzta;
+2021.01.05;;harasztos káposzta;
+2021.01.06;tarhonyaleves;kelkáposzta főzelék;
+2021.01.07;tarhonyaleves;halrudak;kukoricás rizs
+2021.01.08;tojásleves;rakott kelkáposzta;
+2021.01.09;tojásleves;rakott kelkáposzta;
+2021.01.10;gulyásleves;aranygaluska vaníliasodóval;
+2021.01.11;gulyásleves;aranygaluska vaníliasodóval;
+2021.01.12;;rakott kelkáposzta;
+2021.01.13;sárgaborsókrémleves;;kakaós csiga
+2021.01.14;hegyigulyás;halrudak;zöldborsós orsó tészta
+2021.01.15;hegyigulyás;;
+2021.01.16;babgulyás;;fánk
+2021.01.17;babgulyás;;fánk
+2021.01.18;;provanszi csirke;tésztaragu
+2021.01.19;;mákosguba vaníliasodóval;
+2021.01.20;;provanszi csirke;tésztaragu
+2021.01.21;borsóleves;hurka;
+2021.01.22;borsóleves;hentes tokány;rizs
+2021.01.23;;tejszínes gombás brokkolis csirkemell;penne
+2021.01.24;;tejszínes gombás brokkolis csirkemell;penne
+2021.01.25;;;
+2021.01.26;krumplileves;;tepertős pogácsa
+2021.01.27;;;
+2021.01.28;krumplileves;lencsefőzelék;
+2021.01.29;;lencsefőzelék;
+2021.01.30;halászlé;túrós tészta;
+2021.01.31;halászlé;túrós tészta;
+2021.02.01;karalábéleves;csirkemell roston;bulgur
+2021.02.02;halászlé;ponty roston;
+2021.02.03;gombaleves;lángos;
+2021.02.04;gombaleves;rántott sajt;kukoricás rizs
+2021.02.05;;resztelt máj;főtt krumpli
+2021.02.06;zellerkrémleves;rakott krumpli;
+2021.02.07;zellerkrémleves;rakott krumpli;
+2021.02.08;;rakott krumpli;
+2021.02.09;zellerkrémleves;tyúkpörkölt;szarvacska
+2021.02.10;;tyúkpörkölt;szarvacska
+2021.02.11;;hurka kolbász;
+2021.02.12;zöldséges bableves;;pogácsa
+2021.02.13;zöldséges bableves;;pogácsa
+2021.02.14;csirkeraguleves;borsópörkölt;
+2021.02.15;csirkeraguleves;borsópörkölt;
+2021.02.16;;paradicsomos húsgombóc;
+2021.02.17;;töltött karaj;bulgur
+2021.02.18;;tepsis tészta;
+2021.02.19;;rántott máj;tört krumpli
+2021.02.20;;harcsapaprikás;túrós csusza
+2021.02.21;;sertésszűz budapest módra;rizs
+2021.02.22;;sertésszűz budapest módra;rizs
+2021.02.23;;milánói;spagetti
+2021.02.24;;csilis bab ;
+2021.02.25;;halrudak;kukoricás bulgur
+2021.02.26;;burek;
+2021.02.27;borsóleves;rakott káposzta;
+2021.02.28;borsóleves;rántott hús;krumplipüré
+2021.03.01;borsóleves;rakott káposzta;
+2021.03.02;;rántott hús;krumplipüré
+2021.03.03;;túrós tészta;
+2021.03.04;;zöldséges fetás csirke;
+2021.03.05;;zöldséges fetás csirke;
+2021.03.06;gulyásleves;;fánk
+2021.03.07;gulyásleves;;fánk
+2021.03.08;;dübarry sertésszelet;krumplipüré
+2021.03.09;;dübarry sertésszelet;krumplipüré
+2021.03.10;;harasztos káposzta;
+2021.03.11;;harasztos káposzta;
+2021.03.12;;krumplifőzelék;
+2021.03.13;halászlé;túrós tészta;
+2021.03.14;brokkolikrémleves;szarvas pite;
+2021.03.15;brokkolikrémleves;szarvas pite;
+2021.03.16;;kenyérlángos;
+2021.03.17;;lazac roston;zöldségsaláta
+2021.03.18;;kenyérlángos;
+2021.03.19;babgulyás;;tepertős pogácsa
+2021.03.20;babgulyás;;tepertős pogácsa
+2021.03.21;;töltött karaj;hagymás tört krumpli
+2021.03.22;babgulyás;;
+2021.03.23;;tökfőzelék;
+2021.03.24;;zöldbabfőzelék;
+2021.03.25;;lazac roston;brokkolis bulgur
+2021.03.26;;hurka kolbász;
+2021.03.27;zellerkrémleves;csirkemell roston;rizs
+2021.03.28;;csirkemell roston;zöldségsaláta
+2021.03.29;zellerkrémleves;csirkemell roston;zöldségsaláta
+2021.03.30;tojásleves;krumplis tészta;
+2021.03.31;;lencsefőzelék;
+2021.04.01;;harasztos káposzta;
+2021.04.02;;brassói;sült krumpli
+2021.04.03;;;
+2021.04.04;;stefánia vagdalt;krumplipüré
+2021.04.05;;stefánia vagdalt;krumplipüré
+2021.04.06;;brassói;sült krumpli
+2021.04.07;;tökfőzelék;
+2021.04.08;gyümölcsleves;mákos tészta;
+2021.04.09;gyümölcsleves;grízes tészta;
+2021.04.10;tarhonyaleves;macok;
+2021.04.11;zöldségleves;tejszínes gombás brokkolis csirkemell;penne
+2021.04.12;zöldségleves;tejszínes gombás brokkolis csirkemell;penne
+2021.04.13;zöldségleves;tejszínes gombás brokkolis csirkemell;penne
+2021.04.14;;sült karaj;bulgur
+2021.04.15;;hurka kolbász;
+2021.04.16;zöldséges bableves;lángos;
+2021.04.17;;sült karaj párolt káposztával;főtt krumpli
+2021.04.18;;bakonyi sertésszelet;nokedli
+2021.04.19;lebbencsleves;sült karaj párolt káposztával;főtt krumpli
+2021.04.20;;bakonyi sertésszelet;nokedli
+2021.04.21;;bakonyi sertésszelet;nokedli
+2021.04.22;;lecsó;tarhonya
+2021.04.23;;paprikás krumplis nokedli;
+2021.04.24;sárgaborsókrémleves;;kakaós csiga
+2021.04.25;zöldségleves;milánói;spagetti
+2021.04.26;zöldségleves;milánói;spagetti
+2021.04.27;;milánói;spagetti
+2021.04.28;;rántott máj;krokett
+2021.04.29;;;
+2021.04.30;krumplileves;;tepertős pogácsa
+2021.05.01;;;
+2021.05.02;;;
+2021.05.03;;;
+2021.05.04;;bauernfrühstück;
+2021.05.05;;bauernfrühstück;
+2021.05.06;;melegszendvics;
+2021.05.07;;sajtos tejfölös tészta;
+2021.05.08;karalábéleves;konfitált tarja;főtt krumpli
+2021.05.09;karalábéleves;konfitált tarja;főtt krumpli
+2021.05.10;;sóska;
+2021.05.11;;sóska;
+2021.05.12;tarhonyaleves;;pogácsa
+2021.05.13;tarhonyaleves;;pogácsa
+2021.05.14;;milánói;spagetti
+2021.05.15;tarhonyaleves;tyúkpörkölt;
+2021.05.16;;rántott csirkemell;bulgur
+2021.05.17;;rántott csirkemell;bulgur
+2021.05.18;;;
+2021.05.19;;tyúkpörkölt;nokedli
+2021.05.20;;túrós tészta;
+2021.05.21;tyúkhúsleves;;
+2021.05.22;tyúkhúsleves;lecsós csirkemell;rizs
+2021.05.23;tyúkhúsleves;lecsós csirkemell;rizs
+2021.05.24;tyúkhúsleves;lecsós csirkemell;rizs
+2021.05.25;;krumplifőzelék;
+2021.05.26;;hurka kolbász;párolt káposzta
+2021.05.27;;székelykáposzta;
+2021.05.28;;székelykáposzta;
+2021.05.29;;borsópörkölt;
+2021.05.30;;rántott csirkemell;petrezselymes burgonya
+2021.05.31;;rántott csirkemell;petrezselymes burgonya
+2021.06.01;;krumplis tészta;
+2021.06.02;;;
+2021.06.03;paradicsomleves;túrós tészta;
+2021.06.04;paradicsomleves;rántott sajt;rizs
+2021.06.05;;csípős csirkeszárnyak;zelleres ragu
+2021.06.06;karalábéleves;töltött karaj;petrezselymes burgonya
+2021.06.07;karalábéleves;tojásos tészta;
+2021.06.08;;töltött karaj;petrezselymes burgonya
+2021.06.09;;töltött karaj;petrezselymes burgonya
+2021.06.10;;bauernfrühstück;
+2021.06.11;krumplileves;;tepertős pogácsa
+2021.06.12;;sertésszűz tejszínes gombamártással;penne
+2021.06.13;;sertésszűz tejszínes gombamártással;penne
+2021.06.14;;sajtos hús;
+2021.06.15;;sajtos hús;
+2021.06.16;;hamburger;
+2021.06.17;;marhatokány;tarhonya
+2021.06.18;;marhatokány;tarhonya
+2021.06.19;borsóleves;zöldséges fetás csirke;
+2021.06.20;borsóleves;zöldséges fetás csirke;
+2021.06.21;;marhasült meggyszósszal;főtt krumpli
+2021.06.22;;marhasült meggyszósszal;főtt krumpli
+2021.06.23;;mákos tészta;
+2021.06.24;;zöldséges fetás csirke;
+2021.06.25;;zöldséges fetás csirke;
+2021.06.26;;zöldséges fetás csirke;
+2021.06.27;borsóleves;marhasült meggyszósszal;főtt krumpli
+2021.06.28;borsóleves;marhasült meggyszósszal;főtt krumpli
+2021.06.29;borsóleves;marhasült meggyszósszal;főtt krumpli
+2021.06.30;;túrós tészta;
+2021.07.01;;;
+2021.07.02;;pulled pork;
+2021.07.03;;pulled pork;
+2021.07.04;zöldségleves;pulled pork;
+2021.07.05;zöldségleves;;
+2021.07.06;;tökfőzelék;
+2021.07.07;;túrós tészta;
+2021.07.08;;milánói;spagetti
+2021.07.09;;csirkemell roston;brokkolis bulgur
+2021.07.10;;hurka kolbász;
+2021.07.11;gulyásleves;;
+2021.07.12;gulyásleves;;
+2021.07.13;;tökfőzelék;
+2021.07.14;gulyásleves;;
+2021.07.15;;tökfőzelék;
+2021.07.16;;rizses hús;
+2021.07.17;;;
+2021.07.18;;rizses hús;
+2021.07.19;;rántott karfiol;
+2021.07.20;;rántott patiszon;
+2021.07.21;;rántott sajt;petrezselymes burgonya
+2021.07.22;;paprikás krumplis nokedli;
+2021.07.23;;paprikás krumplis nokedli;
+2021.07.24;;;
+2021.07.25;tarhonyaleves;rántott sajt;rizs
+2021.07.26;;zöldséges fetás csirke;
+2021.07.27;;zöldséges fetás csirke;
+2021.07.28;;krumplifőzelék;
+2021.07.29;;lazac roston;tzatziki saláta
+2021.07.30;;tökfőzelék;
+2021.07.31;;;
+2021.08.01;;;
+2021.08.02;;hurka kolbász;
+2021.08.03;;rántott patiszon;rizs
+2021.08.04;;rántott patiszon;rizs
+2021.08.05;;;
+2021.08.06;;paradicsomos húsgombóc;
+2021.08.07;;paradicsomos húsgombóc;
+2021.08.08;;paradicsomos húsgombóc;
+2021.08.09;;tejszínes gombás brokkolis csirkemell;penne
+2021.08.10;;tejszínes gombás brokkolis csirkemell;penne
+2021.08.11;;krumplis tészta;
+2021.08.12;;krumplis tészta;
+2021.08.13;;rántott patiszon;rizs
+2021.08.14;;;
+2021.08.15;;lazac roston;kukoricás rizs
+2021.08.16;;;
+2021.08.17;;zöldséges fetás csirke;
+2021.08.18;;zöldséges fetás csirke;
+2021.08.19;;slambuc;
+2021.08.20;bakonyi betyárleves;;
+2021.08.21;bakonyi betyárleves;;
+2021.08.22;bakonyi betyárleves;;
+2021.08.23;;slambuc;
+2021.08.24;;lecsó;
+2021.08.25;;;
+2021.08.26;;székely káposzta;
+2021.08.27;;rántott hús;krumplipüré
+2021.08.28;meggyleves;sertéspörkölt;szarvacska
+2021.08.29;meggyleves;sertéspörkölt;szarvacska
+2021.08.30;;;
+2021.08.31;;sertéspörkölt;szarvacska
+2021.09.01;;káposztás tészta;
+2021.09.02;;tökfőzelék;
+2021.09.03;csirkeraguleves;;
+2021.09.04;csirkeraguleves;;
+2021.09.05;;rántott patiszon;
+2021.09.06;gyümölcsleves;;
+2021.09.07;;lecsó;
+2021.09.08;;lecsós marhatokány;rizs
+2021.09.09;;lecsós marhatokány;rizs
+2021.09.10;karalábéleves;;
+2021.09.11;;rakott káposzta;
+2021.09.12;rántott leves;csirkenyak pörkölt;nokedli
+2021.09.13;rántott leves;csirkenyak pörkölt;nokedli
+2021.09.14;;rakott káposzta;
+2021.09.15;;csőben sült burgonya;
+2021.09.16;;csőben sült burgonya;
+2021.09.17;;lencsefőzelék;
+2021.09.18;;lencsefőzelék;
+2021.09.19;;tejfölös hús;
+2021.09.20;;tejfölös hús;
+2021.09.21;;káposztás tészta;
+2021.09.22;;burek;
+2021.09.23;;burek;
+2021.09.24;sárgaborsókrémleves;;pogácsa
+2021.09.25;tyúkhúsleves;rántott hús;orosz hússaláta
+2021.09.26;tyúkhúsleves;rántott hús;orosz hússaláta
+2021.09.27;tyúkhúsleves;rántott hús;orosz hússaláta
+2021.09.28;tyúkhúsleves;milánói;spagetti
+2021.09.29;;túrós tészta;
+2021.09.30;;milánói;spagetti
+2021.10.01;;rizses hús;
+2021.10.02;;rizses hús;
+2021.10.03;;lazac roston;krumplipüré
+2021.10.04;;marhapörkölt;nokedli
+2021.10.05;;marhapörkölt;nokedli
+2021.10.06;;káposztás tészta;
+2021.10.07;krumplileves;;
+2021.10.08;krumplileves;rántott sajt;rizs
+2021.10.09;csirkeraguleves;szarvasszelet erdei áfonyamártással;szalvétagombóc
+2021.10.10;csirkeraguleves;szarvasszelet erdei áfonyamártással;szalvétagombóc
+2021.10.11;;sertéspörkölt;szarvacska
+2021.10.12;;sertéspörkölt;szarvacska
+2021.10.13;zöldséges bableves;;
+2021.10.14;zöldséges bableves;;
+2021.10.15;zöldséges bableves;;
+2021.10.16;;szarvasszelet tejszínes gombamártással;rizs
+2021.10.17;;szarvasszelet tejszínes gombamártással;rizs
+2021.10.18;;szarvasszelet tejszínes gombamártással;rizs
+2021.10.19;;túrós tészta;
+2021.10.20;;paprikás krumplis nokedli;
+2021.10.21;;paprikás krumplis nokedli;
+2021.10.22;karalábéleves;sztrapacska;
+2021.10.23;;;
+2021.10.24;karalábéleves;rakott kelkáposzta;
+2021.10.25;;rakott kelkáposzta;
+2021.10.26;;fokhagymás sertésszelet;bulgur
+2021.10.27;;rakott kelkáposzta;
+2021.10.28;frankfurti leves;túrós tészta;
+2021.10.29;frankfurti leves;;kakaós csiga
+2021.10.30;;dübarry sertésszelet;krumplipüré
+2021.10.31;palócleves;palacsinta;
+2021.11.01;palócleves;palacsinta;
+2021.11.02;;sertéspörkölt;orsó tészta
+2021.11.03;;lencsefőzelék;
+2021.11.04;;hentes tokány;rizs
+2021.11.05;;rántott karfiol;rizs
+2021.11.06;;rántott karfiol;
+2021.11.07;;sült kacsacomb párolt lilakáposztával;hagymás tört krumpli
+2021.11.08;;sült kacsacomb párolt lilakáposztával;hagymás tört krumpli
+2021.11.09;;paprikás krumplis nokedli;
+2021.11.10;;rántotta;
+2021.11.11;lebbencsleves;kelkáposzta főzelék;
+2021.11.12;lebbencsleves;kelkáposzta főzelék;
+2021.11.13;;zöldséges fetás csirke;
+2021.11.14;;zöldséges fetás csirke;
+2021.11.15;;rántott sajt;rizs
+2021.11.16;;lazac roston;krumplipüré
+2021.11.17;;túrós tészta;
+2021.11.18;;sólet;
+2021.11.19;;sólet;
+2021.11.20;gulyásleves;;
+2021.11.21;;vadragus pite;
+2021.11.22;gulyásleves;hortobágyi húsos palacsinta;
+2021.11.23;;rakott krumpli;
+2021.11.24;;rakott krumpli;
+2021.11.25;;sült tarja párolt káposztával;sült krumpli
+2021.11.26;;sült tarja párolt káposztával;sült krumpli
+2021.11.27;;lazac roston;bulgur
+2021.11.28;;lazac roston;bulgur
+2021.11.29;;túrós tészta;
+2021.11.30;;káposztás tészta;
+2021.12.01;;sertésszűz budapest módra;rizs
+2021.12.02;;sertésszűz budapest módra;rizs
+2021.12.03;hegyigulyás;rántott máj;rizs
+2021.12.04;;tejszínes gombás brokkolis csirkemell;penne
+2021.12.05;;tejszínes gombás brokkolis csirkemell;penne
+2021.12.06;;tyúkpörkölt;nokedli
+2021.12.07;;tyúkpörkölt;nokedli
+2021.12.08;frankfurti leves;;
+2021.12.09;frankfurti leves;;
+2021.12.10;;harasztos káposzta;
+2021.12.11;;harasztos káposzta;
+2021.12.12;;harasztos káposzta;
+2021.12.13;;rakott karfiol;
+2021.12.14;;harasztok káposzta;
+2021.12.15;;;
+2021.12.16;gombaleves;;
+2021.12.17;;;
+2021.12.18;;;
+2021.12.19;;gyümölcsös csirkemell;gesztenyés krokett
+2021.12.20;;gyümölcsös csirkemell;gesztenyés krokett
+2021.12.21;;borsópörkölt;
+2021.12.22;;krumplis tészta;
+2021.12.23;;fasírozott;krumplipüré
+2021.12.24;halászlé;fatányéros;
+2021.12.25;;;
+2021.12.26;;;
+2021.12.27;;;
+2021.12.28;;;
+2021.12.29;;zöldséges fetás csirke;
+2021.12.30;korhelyleves;zöldséges fetás csirke;
+2021.12.31;korhelyleves;bakonyi sertésszelet;

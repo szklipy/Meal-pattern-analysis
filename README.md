@@ -10,7 +10,7 @@ The goal of the analysis is not to predict meals with certainty, but to examine 
 ## Data source
 The raw data originates from six handwritten household calendars covering the years 2020–2025, where daily home-cooked lunches were recorded manually. Each day may include up to three dish categories: soup, main course, and side dish.
 
-Across 2,192 days, this results in a theoretical maximum of 6,572 dish entries. The final dataset contains 3,299 records, reflecting the realities of daily life. Meals without all dish categories, days with restaurant dining, ordered food, holidays, or leftovers were intentionally excluded to preserve a consistent definition of home-cooked meals and to avoid introducing dominant but analytically uninformative categories.
+Across 2,192 days, this results in a theoretical maximum of 6,572 dish entries. The final dataset contains 3,328 records, reflecting the realities of daily life. Meals without all dish categories, days with restaurant dining, ordered food, holidays, or leftovers were intentionally excluded to preserve a consistent definition of home-cooked meals and to avoid introducing dominant but analytically uninformative categories.
 
 ### Data structure
 The dataset is organized into six spreadsheets, one per year, each sharing an identical schema. Rows represent individual calendar days, while columns correspond to recorded dish categories.

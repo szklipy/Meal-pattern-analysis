@@ -1,0 +1,366 @@
+﻿dátum;leves;főétel;köret
+2025.01.01;korhelyleves;csülök pecsenye;főtt krumpli
+2025.01.02;korhelyleves;csülök pecsenye;főtt krumpli
+2025.01.03;korhelyleves;lencsefőzelék;
+2025.01.04;;rakott krumpli;
+2025.01.05;;rakott krumpli;
+2025.01.06;;rakott krumpli;
+2025.01.07;;paprikás krumplis nokedli;
+2025.01.08;karalábéleves;halrudak;majonézes krumplisaláta
+2025.01.09;karalábéleves;halrudak;majonézes krumplisaláta
+2025.01.10;;tepsis tészta;
+2025.01.11;;tepsis tészta;
+2025.01.12;;lazac roston;bulgur
+2025.01.13;;pincepörkölt;
+2025.01.14;lebbencsleves;;sajtos stangli
+2025.01.15;;hamburger;
+2025.01.16;;sólet;
+2025.01.17;;sólet;
+2025.01.18;;rakott káposzta;
+2025.01.19;;rakott káposzta;
+2025.01.20;csontleves;rakott káposzta;
+2025.01.21;csontleves;rizses hús;
+2025.01.22;;füstölt makréla;csőben sült krumpli
+2025.01.23;;rizses hús;
+2025.01.24;;halrudak;bulgur
+2025.01.25;frankfurti leves;;kelt kalácsok
+2025.01.26;frankfurti leves;;kelt kalácsok
+2025.01.27;;krumplifőzelék;fasírt
+2025.01.28;;krumplifőzelék;fasírt
+2025.01.29;;túrós tészta;
+2025.01.30;;sóska;
+2025.01.31;;lazac roston;bulgur
+2025.02.01;;harasztos káposzta;
+2025.02.02;;bakonyi sertésszelet;nokedli
+2025.02.03;;bakonyi sertésszelet;nokedli
+2025.02.04;;bakonyi sertésszelet;nokedli
+2025.02.05;zellerkrémleves;lazac roston;rizs
+2025.02.06;;harasztos káposzta;
+2025.02.07;tárkonyos szarvasraguleves;;
+2025.02.08;tárkonyos szarvasraguleves;;
+2025.02.09;tárkonyos szarvasraguleves;kocsonya;
+2025.02.10;;kocsonya;
+2025.02.11;;kocsonya;
+2025.02.12;;kocsonya;
+2025.02.13;;tócsni;
+2025.02.14;palócleves;;pogácsa
+2025.02.15;palócleves;;pogácsa
+2025.02.16;;dubarry szelet;krumplipüré
+2025.02.17;palócleves;dubarry szelet;krumplipüré
+2025.02.18;;dubarry szelet;krumplipüré
+2025.02.19;;tökfőzelék;
+2025.02.20;;tökfőzelék;
+2025.02.21;halászlé;harcsapaprikás;túrós csusza
+2025.02.22;halászlé;rakott káposzta;
+2025.02.23;brokkolikrémleves;rántott sajt;rizs
+2025.02.24;brokkolikrémleves;rántott sajt;rizs
+2025.02.25;;rakott káposzta;
+2025.02.26;;túrógombóc;
+2025.02.27;;bundáskenyér;
+2025.02.28;sárgaborsókrémleves;;
+2025.03.01;;kenyérlángos;
+2025.03.02;zöldséges bableves;;
+2025.03.03;zöldséges bableves;;
+2025.03.04;zöldséges bableves;;
+2025.03.05;;mákos tészta;
+2025.03.06;;sóska;
+2025.03.07;;káposztás tészta;
+2025.03.08;borsóleves;rántott csirkemell;krumplipüré
+2025.03.09;borsóleves;rántott csirkemell;krumplipüré
+2025.03.10;borsóleves;rántott csirkemell;krumplipüré
+2025.03.11;paradicsomleves;bauernfrühstück;
+2025.03.12;;kenyérlángos;
+2025.03.13;paradicsomleves;kenyérlángos;
+2025.03.14;;babfőzelék;
+2025.03.15;grízgombócleves;babfőzelék;
+2025.03.16;grízgombócleves;stroganoff bélszín;rizs
+2025.03.17;;stroganoff bélszín;rizs
+2025.03.18;;slambuc;
+2025.03.19;;slambuc;
+2025.03.20;zellerkrémleves;;
+2025.03.21;tyúkhúsleves;;
+2025.03.22;tyúkhúsleves;rántott hús;orosz hússaláta
+2025.03.23;tyúkhúsleves;rántott hús;orosz hússaláta
+2025.03.24;;;
+2025.03.25;;rizses hús;
+2025.03.26;;rizses hús;
+2025.03.27;;rizses hús;
+2025.03.28;paradicsomleves;túrós tészta;
+2025.03.29;karalábéleves;tejfölös hús;
+2025.03.30;karalábéleves;tejfölös hús;
+2025.03.31;;tejfölös hús;
+2025.04.01;;babfőzelék;
+2025.04.02;;babfőzelék;
+2025.04.03;;babfőzelék;
+2025.04.04;;kelkáposzta főzelék;
+2025.04.05;;kelkáposzta főzelék;
+2025.04.06;;sertéspörkölt;nokedli
+2025.04.07;;kocsonya;
+2025.04.08;;kocsonya;
+2025.04.09;;kocsonya;
+2025.04.10;zöldségleves;lazac roston;rizs
+2025.04.11;zöldségleves;gombapörkölt;nokedli
+2025.04.12;;rakott káposzta;
+2025.04.13;lebbencsleves;lazac roston;rizs
+2025.04.14;;rakott káposzta;
+2025.04.15;;rakott káposzta;
+2025.04.16;;tökfőzelék;
+2025.04.17;;tökfőzelék;
+2025.04.18;;burek;
+2025.04.19;;;
+2025.04.20;;tatár beefsteak;
+2025.04.21;;szarvasszelet erdei áfonyamártással;krokett
+2025.04.22;borsóleves;szarvasszelet erdei áfonyamártással;krokett
+2025.04.23;borsóleves;szarvasszelet erdei áfonyamártással;
+2025.04.24;;mákosguba vaníliasodóval;
+2025.04.25;;kenyérlángos;
+2025.04.26;;;
+2025.04.27;babgulyás;;kelt kalácsok
+2025.04.28;babgulyás;;kelt kalácsok
+2025.04.29;babgulyás;;kelt kalácsok
+2025.04.30;;;
+2025.05.01;;paprikás krumplis nokedli;
+2025.05.02;;paprikás krumplis nokedli;
+2025.05.03;zöldségleves;csirkemell roston;sült krumpli
+2025.05.04;;tejszínes gombás brokkolis csirkemell;penne
+2025.05.05;;tejszínes gombás brokkolis csirkemell;penne
+2025.05.06;;lazac hollandi mártással;spárga
+2025.05.07;tojásleves;grízes tészta;
+2025.05.08;karalábéleves;káposztás tészta;
+2025.05.09;;krumplifőzelék;sült kolbász
+2025.05.10;;krumplifőzelék;sült kolbász
+2025.05.11;karalábéleves;rántott máj;rizs
+2025.05.12;karalábéleves;rántott máj;
+2025.05.13;;túrós tészta;
+2025.05.14;;gombapörkölt;nokedli
+2025.05.15;;gombapörkölt;nokedli
+2025.05.16;;hentes tokány;rizs
+2025.05.17;;;
+2025.05.18;;hentes tokány;rizs
+2025.05.19;sárgaborsókrémleves;;
+2025.05.20;sárgaborsókrémleves;lazac roston;krumplipüré
+2025.05.21;;hamburger;
+2025.05.22;;hamburger;
+2025.05.23;;milánói;spagetti
+2025.05.24;;;
+2025.05.25;gulyásleves;mákosguba vaníliasodóval;
+2025.05.26;gulyásleves;mákosguba vaníliasodóval;
+2025.05.27;gulyásleves;grízes tészta;
+2025.05.28;;csirkebelsőség pörkölt;tészta
+2025.05.29;;csirkebelsőség pörkölt;tészta
+2025.05.30;;;
+2025.05.31;zöldséges bableves;;tepertős pogácsa
+2025.06.01;zöldséges bableves;;tepertős pogácsa
+2025.06.02;zöldséges bableves;;tepertős pogácsa
+2025.06.03;;paradicsomos húsgombóc;
+2025.06.04;;paradicsomos húsgombóc;
+2025.06.05;;paradicsomos húsgombóc;
+2025.06.06;;paprikás krumplis nokedli;
+2025.06.07;;paprikás krumplis nokedli;
+2025.06.08;karalábéleves;fokhagymás sertésszelet;petrezselymes burgonya
+2025.06.09;karalábéleves;fokhagymás sertésszelet;petrezselymes burgonya
+2025.06.10;;borsópörkölt;
+2025.06.11;;borsópörkölt;
+2025.06.12;;kenyérlángos;
+2025.06.13;;tejszínes gombás brokkolis csirkemell;rizs
+2025.06.14;;tejszínes gombás brokkolis csirkemell;rizs
+2025.06.15;borsóleves;gombás szarvaspörkölt;rizs
+2025.06.16;borsóleves;gombás szarvaspörkölt;rizs
+2025.06.17;;gombás szarvaspörkölt;rizs
+2025.06.18;;babfőzelék;
+2025.06.19;;burek;
+2025.06.20;;babfőzelék;
+2025.06.21;;sült csirkecomb;főtt krumpli
+2025.06.22;;rántott karfiol;rizs
+2025.06.23;;sült csirkecomb;főtt krumpli
+2025.06.24;gyümölcsleves;;
+2025.06.25;;;
+2025.06.26;gyümölcsleves;bauernfrühstück;
+2025.06.27;krumplileves;;
+2025.06.28;;;
+2025.06.29;;sertéspörkölt;nokedli
+2025.06.30;;sertésszűz budapest módra;rizs
+2025.07.01;;sertésszűz budapest módra;rizs
+2025.07.02;;sertésszűz budapest módra;rizs
+2025.07.03;tejszínes barackleves;sajtos tészta;
+2025.07.04;;;
+2025.07.05;;lazac roston;zöldségsaláta
+2025.07.06;;tökfőzelék;
+2025.07.07;;tökfőzelék;
+2025.07.08;;lecsó;rizs
+2025.07.09;;töltelék;
+2025.07.10;;töltelék;
+2025.07.11;gulyásleves;;
+2025.07.12;gulyásleves;;
+2025.07.13;gulyásleves;;
+2025.07.14;;harasztos káposzta;
+2025.07.15;tojásleves;rántott sajt;krumplipüré
+2025.07.16;;lazac roston;tzatziki saláta
+2025.07.17;;grízes tészta;
+2025.07.18;;krumplifőzelék;fasírt
+2025.07.19;borsóleves;sült csirkecomb;főtt krumpli
+2025.07.20;borsóleves;sült csirkecomb;főtt krumpli
+2025.07.21;;sült csirkecomb;főtt krumpli
+2025.07.22;;paprikás krumplis nokedli;
+2025.07.23;;paprikás krumplis nokedli;
+2025.07.24;lebbencsleves;;
+2025.07.25;;mandulás-diós tészta;
+2025.07.26;;krumplis tészta;
+2025.07.27;;rántott cukkini;rizs
+2025.07.28;krumplileves;derelye;
+2025.07.29;krumplileves;derelye;
+2025.07.30;;zuzapörkölt;tarhonya
+2025.07.31;;zuzapörkölt;tarhonya
+2025.08.01;;tökfőzelék;fasírt
+2025.08.02;;;
+2025.08.03;;rántott csirkemell;krumplipüré
+2025.08.04;;rántott csirkemell;rizibizi
+2025.08.05;;halrudak;rizibizi
+2025.08.06;;cukkinitócsni;
+2025.08.07;;tökfőzelék;fasírt
+2025.08.08;;tökfőzelék;fasírt
+2025.08.09;;;
+2025.08.10;;csirkepörkölt;nokedli
+2025.08.11;;csirkepörkölt;nokedli
+2025.08.12;;csirkepörkölt;nokedli
+2025.08.13;;hamburger;
+2025.08.14;;hamburger;
+2025.08.15;;lazac roston;bulgur
+2025.08.16;;krumplis tészta;
+2025.08.17;;kenyérlángos;
+2025.08.18;;kelkáposzta főzelék;fasírt
+2025.08.19;;kelkáposzta főzelék;fasírt
+2025.08.20;;rántott sajt;rizs
+2025.08.21;;;
+2025.08.22;;rántott patiszon;
+2025.08.23;;szarvaspörkölt;petrezselymes tarhonya
+2025.08.24;;szarvaspörkölt;petrezselymes tarhonya
+2025.08.25;;szarvaspörkölt;nokedli
+2025.08.26;lebbencsleves;;
+2025.08.27;;patiszontócsni;
+2025.08.28;;lecsó;
+2025.08.29;;patiszontócsni;
+2025.08.30;;lazac roston;rizibizi
+2025.08.31;zöldséges bableves;;
+2025.09.01;zöldséges bableves;;
+2025.09.02;;;
+2025.09.03;zöldséges bableves;;
+2025.09.04;;sült tarja;hagymás tört krumpli
+2025.09.05;;sült tarja;hagymás tört krumpli
+2025.09.06;;sült tarja;hagymás tört krumpli
+2025.09.07;;pásztortarhonya;
+2025.09.08;;pásztortarhonya;
+2025.09.09;zöldségleves;;
+2025.09.10;;zöldborsófőzelék;
+2025.09.11;;krumplifőzelék;sült kolbász
+2025.09.12;csontleves;lazac roston;krumplipüré
+2025.09.13;csontleves;;
+2025.09.14;csontleves;;
+2025.09.15;;csirkemell roston;rizs
+2025.09.16;tejszínes barackleves;lazac roston;rizs
+2025.09.17;tejszínes barackleves;szarvaspörkölt;tészta
+2025.09.18;;szarvaspörkölt;tészta
+2025.09.19;;túrós tészta;
+2025.09.20;;;
+2025.09.21;zellerkrémleves;rántott hús;petrezselymes burgonya
+2025.09.22;;rántott hús;petrezselymes burgonya
+2025.09.23;lebbencsleves;palacsinta;
+2025.09.24;lebbencsleves;palacsinta;
+2025.09.25;sárgaborsókrémleves;;
+2025.09.26;;lazac roston;penne
+2025.09.27;lebbencsleves;sült kolbász;
+2025.09.28;tyúkhúsleves;;
+2025.09.29;tyúkhúsleves;;
+2025.09.30;tyúkhúsleves;;
+2025.10.01;karalábéleves;rizses hús;
+2025.10.02;;rizses hús;
+2025.10.03;;rakott krumpli;
+2025.10.04;;rakott krumpli;
+2025.10.05;zellerkrémleves;sült kacsacomb párolt lilakáposztával;hagymás tört krumpli
+2025.10.06;;sült kacsacomb párolt lilakáposztával;hagymás tört krumpli
+2025.10.07;;;
+2025.10.08;;tökfőzelék;fasírt
+2025.10.09;;csilisbab;
+2025.10.10;;lazac roston;penne
+2025.10.11;tárkonyos szarvasraguleves;;
+2025.10.12;tárkonyos szarvasraguleves;;
+2025.10.13;;káposztás tészta;
+2025.10.14;;sóska;
+2025.10.15;;sóska;
+2025.10.16;krumplileves;;tepertős pogácsa
+2025.10.17;;resztelt máj;főtt krumpli
+2025.10.18;;resztelt máj;főtt krumpli
+2025.10.19;;tejszínes gombás brokkolis csirkemell;penne
+2025.10.20;;tejszínes gombás brokkolis csirkemell;penne
+2025.10.21;;borsópörkölt;
+2025.10.22;;borsópörkölt;
+2025.10.23;;rántott hús;orosz hússaláta
+2025.10.24;;rántott hús;orosz hússaláta
+2025.10.25;;;
+2025.10.26;;aranygaluska vaníliasodóval;
+2025.10.27;;aranygaluska vaníliasodóval;
+2025.10.28;;lecsó;
+2025.10.29;;szarvaspörkölt;tészta
+2025.10.30;;szarvaspörkölt;tészta
+2025.10.31;csontleves;rakott krumpli;
+2025.11.01;csontleves;rakott krumpli;
+2025.11.02;csontleves;rakott krumpli;
+2025.11.03;csontleves;rizses hús;
+2025.11.04;;rizses hús;
+2025.11.05;;gombapörkölt;nokedli
+2025.11.06;frankrurti leves;;pogácsa
+2025.11.07;zöldségleves;lazac roston;krumplipüré
+2025.11.08;zöldségleves;lazac roston;krumplipüré
+2025.11.09;zöldségleves;sült kacsacomb párolt lilakáposztával;hagymás tört krumpli
+2025.11.10;;sült kacsacomb párolt lilakáposztával;hagymás tört krumpli
+2025.11.11;;ganca;
+2025.11.12;;ganca;
+2025.11.13;;ganca;
+2025.11.14;;gombapörkölt;
+2025.11.15;sárgaborsókrémleves;;kakaós csiga
+2025.11.16;;;
+2025.11.17;zöldségleves;sült tarja;főtt krumpli
+2025.11.18;zöldségleves;káposztás tészta;
+2025.11.19;;káposztás tészta;
+2025.11.20;;rántott karfiol;rizs
+2025.11.21;;lazac roston;rizs
+2025.11.22;brokkolikrémleves;mákos tészta;
+2025.11.23;;tócsni;
+2025.11.24;;borsópörkölt;
+2025.11.25;gombaleves;;
+2025.11.26;;babfőzelék;
+2025.11.27;;halrudak;sült krumpli
+2025.11.28;;babfőzelék;
+2025.11.29;;sztrapacska;
+2025.11.30;;sztrapacska;
+2025.12.01;;;
+2025.12.02;;sztrapacska;
+2025.12.03;;lazac roston;rizibizi
+2025.12.04;;;
+2025.12.05;;harasztos káposzta;
+2025.12.06;;wellington bélszín;
+2025.12.07;;wellington bélszín;
+2025.12.08;;harasztos káposzta;
+2025.12.09;;harasztos káposzta;
+2025.12.10;;zöldséges fetás csirkemell;
+2025.12.11;;zöldséges fetás csirkemell;
+2025.12.12;;sólet;
+2025.12.13;;sólet;
+2025.12.14;zellerkrémleves;tepsis tészta;
+2025.12.15;zellerkrémleves;tepsis tészta;
+2025.12.16;;kelkáposzta főzelék;sült kolbász
+2025.12.17;;kelkáposzta főzelék;sült kolbász
+2025.12.18;zellerkrémleves;rántott sajt;kukoricás rizs
+2025.12.19;;túrós tészta;
+2025.12.20;;aszalt gyümölccsökkel töltött csirkemell;krumplipüré
+2025.12.21;;rakott káposzta;
+2025.12.22;;rakott káposzta;
+2025.12.23;;rakott káposzta;
+2025.12.24;halászlé;tatár beefsteak;
+2025.12.25;;;
+2025.12.26;;;
+2025.12.27;halászlé;tatár beefsteak;
+2025.12.28;csontleves;hortobágyi húsos palacsinta;
+2025.12.29;csontleves;hortobágyi húsos palacsinta;
+2025.12.30;;kenyérlángos;
+2025.12.31;korhelyleves;brassói;sült krumpli
